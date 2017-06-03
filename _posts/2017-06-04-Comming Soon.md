@@ -2,6 +2,6 @@
 
 alles weitere kommt in den nächsten Tagen ...
 
-(/images/404.jpg)
+![](/images/404.jpg)
 
 
