@@ -1,6 +1,6 @@
-#Dr. Thomas Lokajczyk
+# Dr. Thomas Lokajczyk
 
-#Systemberatung Business Intelligence
+# Systemberatung Business Intelligence
 
 alles weitere kommt in den nächsten Tagen ...
 
