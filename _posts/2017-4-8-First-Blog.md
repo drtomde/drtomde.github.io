@@ -1,5 +1,6 @@
-My __first__ blog
+Dr. Thomas Lokajczyk
+Systemberatung Business Intelligence
 
-#h1
-##2
-###3
+alles weitere kommt in den nächsten Tagen ...
+
+
