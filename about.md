@@ -24,4 +24,4 @@ permalink: /about/
 
 ### Contact me
 
-[info@intellisol.de](mailto:info@intellisol.de)
+[info(AT)intellisol.de]
